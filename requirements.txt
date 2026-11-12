@@ -1,0 +1,16 @@
+
+langgraph==1.2.20
+langchain==1.4.2
+langchain-groq==1.1.3
+langchain-community
+langchain-tavily==0.2.18
+psycopg[binary,pool]
+python-dotenv==1.2.3
+tavily-python
+requests
+langgraph-checkpoint-postgres
+airportsdata
+pycountry
+fastapi
+uvicorn
+jinja2
